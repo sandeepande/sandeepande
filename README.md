@@ -1,18 +1,17 @@
-# sandeep-ande
 # 👋 Hi, I'm Sandeep Kumar
 
 ### DevOps & Cloud Enthusiast | Python & Linux Systems | Data & Automation
 
-Engineering graduate with hands-on experience across **Python, Linux, Git, AWS, Docker, Terraform, CI/CD, SQL, and data engineering**. I enjoy building practical systems, automating workflows, debugging problems, and continuously expanding my technical depth.
+Engineering graduate with hands-on exposure to **Linux systems, Python, SQL, AWS, Docker, Terraform, Git, and CI/CD automation**. I enjoy building practical projects, automating workflows, troubleshooting technical problems, and continuously expanding my skills across software, cloud, and data.
 
 ---
 
 ## 🧑‍💻 About Me
 
 * ☁️ Exploring **DevOps, Cloud Computing, Linux systems, and CI/CD automation**
-* 🐍 Building with **Python, SQL, Shell scripting, and data-processing tools**
-* 📊 Interested in **Data Engineering, analytics, ETL pipelines, and applied Machine Learning**
-* 🚀 Currently strengthening my skills through projects involving **automation, cloud infrastructure, monitoring, and full build-test-deploy workflows**
+* 🐍 Building practical solutions with **Python, SQL, Shell scripting, and data-processing tools**
+* 📊 Interested in **Data Engineering, analytics, ETL pipelines, and Machine Learning**
+* 🚀 Focused on becoming a stronger developer by combining **software development, cloud infrastructure, automation, and data**
 
 ---
 
@@ -33,11 +32,12 @@ Engineering graduate with hands-on experience across **Python, Linux, Git, AWS, 
 
 ### ⚙️ Backend & DevOps
 
-![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
 ### 📊 Data Science / ML
 
@@ -45,38 +45,41 @@ Engineering graduate with hands-on experience across **Python, Linux, Git, AWS, 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-**Areas:** ETL/ELT • Data Cleaning • EDA • Data Validation • Analytical SQL • Data Transformation • Monitoring & Alerting
+**Areas:**
+`ETL/ELT` • `Data Cleaning` • `EDA` • `Data Validation` • `Data Transformation` • `Analytical SQL` • `Monitoring & Alerting`
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge\&logo=arduino\&logoColor=white)
 
 ---
 
-## 🔬 Current Focus
+## 🎯 Current Focus
 
-I'm currently focused on building a stronger foundation across **Cloud, DevOps, Python automation, Data Engineering, and Machine Learning**.
+I'm currently strengthening my technical foundation across **Cloud, DevOps, Python automation, Data Engineering, and Machine Learning**.
 
 ### ☁️ Cloud & DevOps
 
-* Linux and system fundamentals
-* AWS cloud architecture and deployment concepts
-* Docker containerization
-* Terraform infrastructure as code
-* GitHub Actions and CI/CD workflows
-* Debugging, testing, logging, and release workflows
+* 🐧 Linux and Unix systems
+* ☁️ AWS cloud fundamentals
+* 🐳 Docker containerization
+* 🏗️ Terraform infrastructure as code
+* 🔄 GitHub Actions and CI/CD workflows
+* 🔧 Debugging and troubleshooting
+* 🧪 Testing and code quality
+* 📝 Logging and technical documentation
 
 ### 📊 Data & Engineering
 
-* Python-based ETL pipelines
-* SQL analytics and database design
-* Data validation and transformation
-* Monitoring and alerting systems
-* Exploring practical applications of Data Science and ML
+* 🐍 Python-based ETL pipelines
+* 🗄️ SQL and relational databases
+* 🔍 Data validation and transformation
+* 📈 Exploratory data analysis
+* ⚡ Monitoring and alerting systems
+* 🤖 Exploring practical applications of Machine Learning
 
 ---
 
@@ -86,46 +89,80 @@ I'm currently focused on building a stronger foundation across **Cloud, DevOps, 
 
 **Python • Pandas • SQL • MySQL**
 
-Built an automated ETL pipeline covering **data ingestion, validation, transformation, and loading** into a normalized MySQL database.
+Built an automated ETL pipeline with modular components for:
 
-The project also includes analytical SQL using **CTEs, window functions, joins, aggregations**, and business-oriented reporting.
+* Data ingestion
+* Data validation
+* Data transformation
+* Database loading
+* Error logging
+* Transaction control
+
+The project uses analytical SQL including **CTEs, window functions, joins, aggregations, and trend analysis** to generate business insights.
+
+---
 
 ### 🔋 Solar-Based Battery Voltage Monitoring & Protection System
 
-**Arduino • Sensor Data • Monitoring & Alerting**
+**Arduino • Sensor Data • Monitoring**
 
-Developed a real-time monitoring system using threshold-based logic to detect conditions such as **deep discharge, overcharge, and overheating**.
+Developed a real-time embedded monitoring system using threshold-based logic to detect and flag:
+
+* Deep discharge
+* Overcharging
+* Overheating
+* Sensor anomalies
+
+Iteratively debugged and refined the detection logic to create an end-to-end monitoring and alerting solution.
+
+---
 
 ### ✈️ Expense Voyage — Travel Expense Tracker
 
 **HTML • CSS • JavaScript**
 
-Built a responsive web application with dynamic form validation and cross-browser UI debugging.
+Built a responsive travel expense tracking web application featuring:
+
+* Dynamic form validation
+* Responsive UI
+* Mobile-friendly design
+* Cross-browser debugging
+* Input validation
 
 ---
 
-## 📜 Certifications & Training
+## 📚 Training & Certifications
 
-* 🎓 Data Science and Machine Learning — YBI Foundation
-* 🐍 Python Full Stack — APSCHE
-* ☁️ AWS — NIELIT
-* ☁️ Cloud Computing — NPTEL / IIT
-* 🤖 Prompt Engineering & Advanced ChatGPT — edX
-* 🌐 Internet of Things — Cisco Networking Academy
-* 📊 Data Science with Python — IIT Hyderabad
-* ☁️ AWS Cloud Practitioner Training — NIELIT
+### 🎓 Training
+
+* **Data Science with Python** — IIT Hyderabad
+* **AWS Cloud Practitioner Training** — NIELIT
+
+### 📜 Certifications
+
+* Data Science and Machine Learning — YBI Foundation
+* Python Full Stack — APSCHE
+* Prompt Engineering & Advanced ChatGPT — edX
+* Cloud Computing — NPTEL / IIT
+* Amazon Web Services (AWS) — NIELIT
+* Internet of Things (IoT) — Cisco Networking Academy
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeep_ande23&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=sandeep_ande23&theme=transparent&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Ande_sandeep31&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+
+  <img src="https://streak-stats.demolab.com?user=Ande_sandeep31&theme=transparent&hide_border=true" height="170"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep_ande23&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ande_sandeep31&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
 </p>
 
 ---
@@ -133,16 +170,29 @@ Built a responsive web application with dynamic form validation and cross-browse
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ande-sandeep-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sandeepkumarande45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/ande-sandeep-kumar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sandeepkumarande45@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 💡 Always Learning. Always Building. Always Improving.
+## 💡 My Approach
 
-*Turning curiosity into practical projects, one system at a time.* 🚀
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I'm focused on turning what I learn into practical projects and developing the problem-solving mindset needed to build and maintain reliable systems.
+
+---
+
+<h3 align="center">🚀 Always Learning. Always Building. Always Improving.</h3>
+
+<p align="center">
+  <i>Building today, learning for tomorrow.</i>
+</p>
