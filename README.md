@@ -153,15 +153,15 @@ Built a responsive travel expense tracking web application featuring:
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ande_sandeep31&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepande&show_icons=true&theme=transparent&hide_border=true" height="170"/>
 
-  <img src="https://streak-stats.demolab.com?user=Ande_sandeep31&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=sandeepande&theme=transparent&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ande_sandeep31&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepande&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
 </p>
 
