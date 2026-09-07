@@ -16,7 +16,7 @@ Engineering graduate with hands-on exposure to **Linux systems, Python, SQL, AWS
 ---
 
 ## 🛠️ Tech Stack
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,Javascript,python)](https://skillicons.dev)
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
